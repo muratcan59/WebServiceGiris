@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebServiceGiris.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebServiceGiris_ServiceReference_ProductWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:50101/ProductWebService.asmx</Value>
+    </Setting>
+    <Setting Name="WebServiceGiris_tcknWebReference_KPSPublic" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

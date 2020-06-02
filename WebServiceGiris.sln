@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceGiris", "WebServiceGiris\WebServiceGiris.csproj", "{55576F89-36D1-4353-890C-C9B7AAC875D9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7AC7C6CD-9BC0-4CCF-A197-ADA8CE03C1FB} = {7AC7C6CD-9BC0-4CCF-A197-ADA8CE03C1FB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{7AC7C6CD-9BC0-4CCF-A197-ADA8CE03C1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55576F89-36D1-4353-890C-C9B7AAC875D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55576F89-36D1-4353-890C-C9B7AAC875D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55576F89-36D1-4353-890C-C9B7AAC875D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55576F89-36D1-4353-890C-C9B7AAC875D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC7C6CD-9BC0-4CCF-A197-ADA8CE03C1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC7C6CD-9BC0-4CCF-A197-ADA8CE03C1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC7C6CD-9BC0-4CCF-A197-ADA8CE03C1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC7C6CD-9BC0-4CCF-A197-ADA8CE03C1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9080E19-9F16-4D9F-9AA3-586E0CF949C7}
+	EndGlobalSection
+EndGlobal
